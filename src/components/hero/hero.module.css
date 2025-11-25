@@ -1,0 +1,12 @@
+.wrapper {
+    max-width: 1281px;
+    margin: auto;
+    padding-top: 62px;
+}
+
+.heading { 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 27px;
+}

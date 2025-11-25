@@ -1,0 +1,9 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+:root {
+  --base-white: #fff;
+  --base-dark: #000000;
+}

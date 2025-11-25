@@ -1,0 +1,14 @@
+.header {
+   max-width: 1281px;
+   margin: auto; 
+   padding: 0 92px;
+}
+
+.navigation {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 57px 0 42px 0;
+    border-bottom: 4px solid #E4E4E4
+
+}

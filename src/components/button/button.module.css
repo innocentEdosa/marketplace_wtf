@@ -1,0 +1,12 @@
+.btn {
+     background-color: var(--base-dark);
+     border: none;
+     color: var(--base-white);
+    padding: 13px 39px;
+    cursor: pointer;
+
+}
+
+.btn[data-variant="secondary"] {
+  background-color: blue;
+}
